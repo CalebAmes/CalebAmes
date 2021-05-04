@@ -1,10 +1,5 @@
 ### Welcome to my GITHUB profile ⚡️
 
-<!--
-**CalebAmes/CalebAmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
--->
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300">
 
 I am a developer with an interest in human communication and blockchain technology.
@@ -16,11 +11,9 @@ I am a developer with an interest in human communication and blockchain technolo
 - 📫 How to reach me: https://calebames.github.io/
 - ⚡ Fun fact: Did you know that a group of apes is challed a Shrewdness? Check out https://shrewdness.herokuapp.com/
 
-<br /><br />
-
-### Some of my favorite technologies to work with:
-
 <br />
+
+### Some of my favorite technologies to work with 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,7 +35,7 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br />
 
-### ⏳ Recent Activity
+### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/CalebAmes/sniffs/pull/3) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
@@ -54,19 +47,19 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br />
 
-### Stats:
+### Stats 💹
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
 <br />
 
-### Currently Listening:
+### Currently Listening 🎵
 
 [![Spotify](https://calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
 
 <br />
 
-### Connect with me:
+### Connect with me 🤝
 
 [<img align="left" alt="calebames.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
