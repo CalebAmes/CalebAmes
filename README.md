@@ -55,7 +55,7 @@ I am a developer with an interest in human communication and blockchain technolo
 <br />
 <br />
 
-### Thanks for visiting my GitHub profile ⚡️ take a look around and have a great day!
+### Thanks for visiting my GITHUB profile ⚡️ take a look around and have a great day!
 
 <br />
 <br />
