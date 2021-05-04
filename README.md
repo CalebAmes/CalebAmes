@@ -40,7 +40,7 @@ I am a developer with an interest in human communication and blockchain technolo
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<br /><br /><br /><br />
+<br />
 
 ### ⏳ Recent Activity
 
@@ -52,14 +52,19 @@ I am a developer with an interest in human communication and blockchain technolo
 5. 🎉 Merged PR [#13](https://github.com/CalebAmes/ShrewdnessElectron/pull/13) in [CalebAmes/ShrewdnessElectron](https://github.com/CalebAmes/ShrewdnessElectron)
 <!--END_SECTION:activity-->
 
+<br />
 
 ### Stats:
-
-<br />
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
 <br /><br />
+
+<br />
+
+### Currently Listening:
+
+[![Spotify](https://calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
 
 ### Connect with me:
 
@@ -67,13 +72,6 @@ I am a developer with an interest in human communication and blockchain technolo
 
 [<img align="left" alt="calebames.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-##### Currently Listening:
-
-[![Spotify](https://calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
-
 
 ### Thanks for visiting my GITHUB profile ⚡️ take a look around and have a great day!
 
