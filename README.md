@@ -58,20 +58,20 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
-<br /><br />
-
 <br />
 
 ### Currently Listening:
 
 [![Spotify](https://calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
 
-### Connect with me:
-
 <br />
+
+### Connect with me:
 
 [<img align="left" alt="calebames.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Thanks for visiting my GITHUB profile ⚡️ take a look around and have a great day!
 
