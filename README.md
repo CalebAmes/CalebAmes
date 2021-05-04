@@ -18,7 +18,7 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br /><br />
 
-### Some of my favorites:
+### Some of my favorite technologies to work with:
 
 <br />
 
