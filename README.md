@@ -40,8 +40,11 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br />
 <br />
+<br />
 
 ### Stats:
+
+<br />
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
