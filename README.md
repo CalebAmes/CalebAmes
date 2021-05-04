@@ -70,6 +70,9 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br />
 
+[![Spotify](https://https://now-playing-calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
+
+
 ### Thanks for visiting my GITHUB profile ⚡️ take a look around and have a great day!
 
 <br />
