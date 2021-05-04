@@ -4,16 +4,15 @@
 **CalebAmes/CalebAmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-Did you know that a group of apes is called a shrewdness?
- - My most recent project is Shrewdness. This project spans 2 repositories, Shrewdness and ShrewdnessElectron, it is a full stack web application with a seperate Electron frontend that talks to the same backend as the web version. It is a group chatroom application with Websockets, AWS integration for media, autocomplete using a Trie Data Structure, Themes and more. I had a blast making it, and I would love for you to check it out! 
+I am a developer with an interest in human communication and blockchain technology. 
+
+- 🔭 I’m currently working on an group chat application with a web version and a desktop version called Shrewdness
+- 🌱 I’m currently learning data structures and algorithems
+- 👯 I’m looking to collaborate on anything with a focus on human communication or blockchain technology
+- 💬 Tell me why you're here
+- 📫 How to reach me: https://calebames.github.io/
+- ⚡ Fun fact: Did you know that a group of apes is challed a Shrewdness? Check out https://shrewdness.herokuapp.com/
+
+
