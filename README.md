@@ -17,7 +17,6 @@ I am a developer with an interest in human communication and blockchain technolo
 - ⚡ Fun fact: Did you know that a group of apes is challed a Shrewdness? Check out https://shrewdness.herokuapp.com/
 
 <br />
-<br />
 
 ### Some of my favorites:
 
@@ -37,13 +36,11 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br />
 <br />
-<br />
 
 ### Stats:
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
-<br />
 <br />
 <br />
 
@@ -53,11 +50,9 @@ I am a developer with an interest in human communication and blockchain technolo
 [<img align="center" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 
 ### Thanks for visiting my GITHUB profile ⚡️ take a look around and have a great day!
 
-<br />
 <br />
 
 [website]: https://calebames.github.io/
