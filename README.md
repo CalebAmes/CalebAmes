@@ -4,7 +4,7 @@
 
 I am a developer with an interest in human communication and blockchain technology.
 
-- 🔭 I’m currently working on an group chat application with a web version and a desktop version called Shrewdness
+- 🔭 I’m currently working on a group chat application with a web version and a desktop version called Shrewdness
 - 🌱 I’m currently diving deaper into data structures to learn to build more efficient applications
 - 👯 I’m currently looking to collaborate
 - 💬 Tell me why you're here 💡
