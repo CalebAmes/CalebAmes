@@ -42,6 +42,11 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <br /><br /><br /><br />
 
+### ⏳ Recent Activity
+
+<!--START_SECTION:activity-->
+
+
 ### Stats:
 
 <br />
