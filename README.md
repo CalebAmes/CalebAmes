@@ -16,9 +16,11 @@ I am a developer with an interest in human communication and blockchain technolo
 - 📫 How to reach me: https://calebames.github.io/
 - ⚡ Fun fact: Did you know that a group of apes is challed a Shrewdness? Check out https://shrewdness.herokuapp.com/
 
-<br />
+<br /><br />
 
 ### Some of my favorites:
+
+<br />
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,9 +40,7 @@ I am a developer with an interest in human communication and blockchain technolo
 <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<br />
-<br />
-<br />
+<br /><br /><br /><br />
 
 ### Stats:
 
@@ -48,10 +48,11 @@ I am a developer with an interest in human communication and blockchain technolo
 
 <img align="center" alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
 
-<br />
-<br />
+<br /><br />
 
 ### Connect with me:
+
+<br />
 
 [<img align="center" alt="calebames.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
