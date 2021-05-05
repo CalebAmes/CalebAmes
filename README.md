@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300">
 
-I am a developer with an interest in human communication and blockchain technology.
+I am a developer with interests in human communication and blockchain technology.
 
 - 🔭 I’m currently working on a group chat application with a web version and a desktop version called Shrewdness
 - 🌱 I’m currently diving deaper into data structures to learn to build more efficient applications
