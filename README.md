@@ -8,7 +8,7 @@ I am a developer with interests in human communication and blockchain technology
 - 🌱 I’m currently diving deaper into data structures to learn to build more efficient applications
 - 👯 I’m currently looking to collaborate
 - 💬 Tell me why you're here 💡
-- 📫 How to reach me: https://calebames.github.io/
+- 📫 How to reach me: caleb-gilbert@live.com (or my website/linkedin links below)
 - ⚡ Fun fact: Did you know that a group of apes is challed a Shrewdness? Check out https://shrewdness.herokuapp.com/
 
 <br />
