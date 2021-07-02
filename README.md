@@ -38,9 +38,9 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/CalebAmes/instructables/pull/53) in [CalebAmes/instructables](https://github.com/CalebAmes/instructables)
-2. 🎉 Merged PR [#3](https://github.com/CalebAmes/sniffs/pull/3) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
-3. 💪 Opened PR [#3](https://github.com/CalebAmes/sniffs/pull/3) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+1. 🎉 Merged PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+2. 💪 Opened PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+3. 🎉 Merged PR [#53](https://github.com/CalebAmes/instructables/pull/53) in [CalebAmes/instructables](https://github.com/CalebAmes/instructables)
 4. 🎉 Merged PR [#33](https://github.com/CalebAmes/Shrewdness/pull/33) in [CalebAmes/Shrewdness](https://github.com/CalebAmes/Shrewdness)
 5. 💪 Opened PR [#33](https://github.com/CalebAmes/Shrewdness/pull/33) in [CalebAmes/Shrewdness](https://github.com/CalebAmes/Shrewdness)
 <!--END_SECTION:activity-->
