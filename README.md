@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
-2. 💪 Opened PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
-3. 🎉 Merged PR [#53](https://github.com/CalebAmes/instructables/pull/53) in [CalebAmes/instructables](https://github.com/CalebAmes/instructables)
-4. 🎉 Merged PR [#33](https://github.com/CalebAmes/Shrewdness/pull/33) in [CalebAmes/Shrewdness](https://github.com/CalebAmes/Shrewdness)
-5. 💪 Opened PR [#33](https://github.com/CalebAmes/Shrewdness/pull/33) in [CalebAmes/Shrewdness](https://github.com/CalebAmes/Shrewdness)
+1. 🎉 Merged PR [#5](https://github.com/CalebAmes/sniffs/pull/5) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+2. 💪 Opened PR [#5](https://github.com/CalebAmes/sniffs/pull/5) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+3. 🎉 Merged PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+4. 💪 Opened PR [#4](https://github.com/CalebAmes/sniffs/pull/4) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+5. 🎉 Merged PR [#53](https://github.com/CalebAmes/instructables/pull/53) in [CalebAmes/instructables](https://github.com/CalebAmes/instructables)
 <!--END_SECTION:activity-->
 
 <br />
