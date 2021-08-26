@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/NoahNim/eventsonly/issues/5) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
-2. ❗️ Opened issue [#1](https://github.com/88joonyc/Adventure_time/issues/1) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
-3. ❗️ Opened issue [#2](https://github.com/hnrywltn/pro_docs/issues/2) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-4. ❗️ Opened issue [#1](https://github.com/hnrywltn/pro_docs/issues/1) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-5. ❗️ Opened issue [#16](https://github.com/amberbancroft/TikTok-clone/issues/16) in [amberbancroft/TikTok-clone](https://github.com/amberbancroft/TikTok-clone)
+1. ❗️ Reopened issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
+2. ❗️ Closed issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
+3. ❗️ Opened issue [#5](https://github.com/NoahNim/eventsonly/issues/5) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
+4. ❗️ Opened issue [#1](https://github.com/88joonyc/Adventure_time/issues/1) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
+5. ❗️ Opened issue [#2](https://github.com/hnrywltn/pro_docs/issues/2) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
 <!--END_SECTION:activity-->
 
 <br />
