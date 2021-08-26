@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/hnrywltn/pro_docs/issues/2) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-2. ❗️ Opened issue [#1](https://github.com/hnrywltn/pro_docs/issues/1) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-3. ❗️ Opened issue [#16](https://github.com/amberbancroft/TikTok-clone/issues/16) in [amberbancroft/TikTok-clone](https://github.com/amberbancroft/TikTok-clone)
-4. ❗️ Opened issue [#15](https://github.com/amberbancroft/TikTok-clone/issues/15) in [amberbancroft/TikTok-clone](https://github.com/amberbancroft/TikTok-clone)
-5. ❗️ Opened issue [#1](https://github.com/crisMtech95/Allbnb/issues/1) in [crisMtech95/Allbnb](https://github.com/crisMtech95/Allbnb)
+1. ❗️ Opened issue [#1](https://github.com/88joonyc/Adventure_time/issues/1) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
+2. ❗️ Opened issue [#2](https://github.com/hnrywltn/pro_docs/issues/2) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+3. ❗️ Opened issue [#1](https://github.com/hnrywltn/pro_docs/issues/1) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+4. ❗️ Opened issue [#16](https://github.com/amberbancroft/TikTok-clone/issues/16) in [amberbancroft/TikTok-clone](https://github.com/amberbancroft/TikTok-clone)
+5. ❗️ Opened issue [#15](https://github.com/amberbancroft/TikTok-clone/issues/15) in [amberbancroft/TikTok-clone](https://github.com/amberbancroft/TikTok-clone)
 <!--END_SECTION:activity-->
 
 <br />
