@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-2. ❗️ Closed issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-3. ❗️ Opened issue [#5](https://github.com/NoahNim/eventsonly/issues/5) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
-4. ❗️ Opened issue [#1](https://github.com/88joonyc/Adventure_time/issues/1) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
-5. ❗️ Opened issue [#2](https://github.com/hnrywltn/pro_docs/issues/2) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+1. ❗️ Opened issue [#3](https://github.com/hnrywltn/pro_docs/issues/3) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+2. ❗️ Reopened issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
+3. ❗️ Closed issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
+4. ❗️ Opened issue [#5](https://github.com/NoahNim/eventsonly/issues/5) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
+5. ❗️ Opened issue [#1](https://github.com/88joonyc/Adventure_time/issues/1) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
 <!--END_SECTION:activity-->
 
 <br />
