@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/hnrywltn/pro_docs/issues/4) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-2. ❗️ Opened issue [#3](https://github.com/hnrywltn/pro_docs/issues/3) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
-3. ❗️ Reopened issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-4. ❗️ Closed issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-5. ❗️ Opened issue [#5](https://github.com/NoahNim/eventsonly/issues/5) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
+1. ❗️ Opened issue [#3](https://github.com/88joonyc/Adventure_time/issues/3) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
+2. ❗️ Opened issue [#2](https://github.com/88joonyc/Adventure_time/issues/2) in [88joonyc/Adventure_time](https://github.com/88joonyc/Adventure_time)
+3. ❗️ Opened issue [#4](https://github.com/hnrywltn/pro_docs/issues/4) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+4. ❗️ Opened issue [#3](https://github.com/hnrywltn/pro_docs/issues/3) in [hnrywltn/pro_docs](https://github.com/hnrywltn/pro_docs)
+5. ❗️ Reopened issue [#12](https://github.com/TastySatang/DiWhy/issues/12) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
 <!--END_SECTION:activity-->
 
 <br />
