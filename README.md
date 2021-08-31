@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/TastySatang/DiWhy/issues/33) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-2. ❗️ Opened issue [#13](https://github.com/cheeyongjc/hiddencabin/issues/13) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
-3. ❗️ Opened issue [#12](https://github.com/cheeyongjc/hiddencabin/issues/12) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
-4. ❗️ Opened issue [#11](https://github.com/cheeyongjc/hiddencabin/issues/11) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
-5. ❗️ Opened issue [#9](https://github.com/NoahNim/eventsonly/issues/9) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
+1. ❗️ Opened issue [#13](https://github.com/KyleHere/Gamernite/issues/13) in [KyleHere/Gamernite](https://github.com/KyleHere/Gamernite)
+2. ❗️ Opened issue [#33](https://github.com/TastySatang/DiWhy/issues/33) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
+3. ❗️ Opened issue [#13](https://github.com/cheeyongjc/hiddencabin/issues/13) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
+4. ❗️ Opened issue [#12](https://github.com/cheeyongjc/hiddencabin/issues/12) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
+5. ❗️ Opened issue [#11](https://github.com/cheeyongjc/hiddencabin/issues/11) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
 <!--END_SECTION:activity-->
 
 <br />
