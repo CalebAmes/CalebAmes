@@ -38,11 +38,11 @@ I am a developer with interests in human communication and blockchain technology
 ### Recent Activity ⏳
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/NoahNim/eventsonly/issues/14) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
-2. ❗️ Opened issue [#18](https://github.com/leslieowititech/Baby_Trainer/issues/18) in [leslieowititech/Baby_Trainer](https://github.com/leslieowititech/Baby_Trainer)
-3. ❗️ Opened issue [#13](https://github.com/KyleHere/Gamernite/issues/13) in [KyleHere/Gamernite](https://github.com/KyleHere/Gamernite)
-4. ❗️ Opened issue [#33](https://github.com/TastySatang/DiWhy/issues/33) in [TastySatang/DiWhy](https://github.com/TastySatang/DiWhy)
-5. ❗️ Opened issue [#13](https://github.com/cheeyongjc/hiddencabin/issues/13) in [cheeyongjc/hiddencabin](https://github.com/cheeyongjc/hiddencabin)
+1. 🎉 Merged PR [#26](https://github.com/CalebAmes/sniffs/pull/26) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+2. 💪 Opened PR [#26](https://github.com/CalebAmes/sniffs/pull/26) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
+3. ❗️ Opened issue [#14](https://github.com/NoahNim/eventsonly/issues/14) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
+4. ❗️ Opened issue [#18](https://github.com/leslieowititech/Baby_Trainer/issues/18) in [leslieowititech/Baby_Trainer](https://github.com/leslieowititech/Baby_Trainer)
+5. ❗️ Opened issue [#13](https://github.com/KyleHere/Gamernite/issues/13) in [KyleHere/Gamernite](https://github.com/KyleHere/Gamernite)
 <!--END_SECTION:activity-->
 
 <br />
