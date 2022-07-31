@@ -3,15 +3,6 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300">
 
-I am a developer with interests in human communication and blockchain technology.
-
-- 🔭 I’m currently working on a group chat application with a web version and a desktop version called Shrewdness
-- 🌱 I’m currently diving deaper into data structures to learn to build more efficient applications
-- 👯 I’m currently looking to collaborate
-- 💬 Tell me why you're here 💡
-- 📫 How to reach me: caleb-gilbert@live.com (or my website/linkedin links below)
-- ⚡ Fun fact: Did you know that a group of apes is called a Shrewdness? Check out https://shrewdness.herokuapp.com/
-
 <br />
 
 ### Some of my favorite technologies to work with 💻
@@ -34,30 +25,6 @@ I am a developer with interests in human communication and blockchain technology
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<br />
-
-### Recent Activity ⏳
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/jurrel/neverNote/issues/7) in [jurrel/neverNote](https://github.com/jurrel/neverNote)
-2. 🎉 Merged PR [#26](https://github.com/CalebAmes/sniffs/pull/26) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
-3. 💪 Opened PR [#26](https://github.com/CalebAmes/sniffs/pull/26) in [CalebAmes/sniffs](https://github.com/CalebAmes/sniffs)
-4. ❗️ Opened issue [#14](https://github.com/NoahNim/eventsonly/issues/14) in [NoahNim/eventsonly](https://github.com/NoahNim/eventsonly)
-5. ❗️ Opened issue [#18](https://github.com/leslieowititech/Baby_Trainer/issues/18) in [leslieowititech/Baby_Trainer](https://github.com/leslieowititech/Baby_Trainer)
-<!--END_SECTION:activity-->
-
-<br />
-
-### Stats 💹
-
-<img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=calebames&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=FE5F55&bg_color=fefefe">
-
-<br />
-<!--
-### Currently Listening on Spotify 🎵
-
-[![Spotify](https://calebames.vercel.app/api/spotify)](https://open.spotify.com/user/214pqxcs7k2cos6kqton5zssa)
--->
 <br />
 
 ### Connect with me 🤝
